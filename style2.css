@@ -1,0 +1,40 @@
+html{
+    background-color: black;
+    color: whitesmoke;
+}
+img{
+    width: 20%;
+    height: 20%;
+    
+}
+header{
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+main{
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+aside {
+    float: right;
+    background-color: whitesmoke;
+    color: black;
+}
+ul{
+    list-style-type: none;
+}
+section{
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    margin:5px;
+}
+.disco{
+    width: 50%;
+    height: 50%;
+}
